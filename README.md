@@ -2,5 +2,5 @@
 
 - Static Website 
 
-- Pactice of chakra uis
+- Pactice of chakra ui
 
